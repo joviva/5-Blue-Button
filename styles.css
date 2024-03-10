@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+button {
+  width: 280px;
+  height: 95px;
+  background-color: rgb(76, 0, 255);
+  color: white;
+  font-size: large;
+  transition-property: background-color;
+  transition-duration: 2s;
+}
+button:hover {
+  background-color: blueviolet;
+}
